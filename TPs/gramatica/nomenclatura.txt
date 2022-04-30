@@ -1,0 +1,13 @@
+Sintagma nominal sujeto (SNS)
+Sintagma verbal (SV)
+Nexo coordinante (NC)
+nombre (N)
+Nombre propio (NP)
+Objeto directo (OD)
+Nombre objeto directo (NOD)
+Sintagma verbal compuesto(SVC)
+Pronombre(P)
+Determinante (Det)
+
+Estos amigos manipulan [jugadores] [con sus piezas]
+Estos amigos manipulan [jugadores [con sus piezas]]
